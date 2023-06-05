@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Desktop\CrudPdv\bin\Debug\CrudPdv.exe.config
+C:\Users\Gabriel\Desktop\CrudPdv\bin\Debug\CrudPdv.exe
+C:\Users\Gabriel\Desktop\CrudPdv\bin\Debug\CrudPdv.pdb
+C:\Users\Gabriel\Desktop\CrudPdv\obj\Debug\CrudPdv.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\CrudPdv\obj\Debug\CrudPdv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Desktop\CrudPdv\obj\Debug\CrudPdv.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\CrudPdv\obj\Debug\CrudPdv.View.ClienteView.resources
+C:\Users\Gabriel\Desktop\CrudPdv\obj\Debug\CrudPdv.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\CrudPdv\obj\Debug\CrudPdv.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\CrudPdv\obj\Debug\CrudPdv.exe
+C:\Users\Gabriel\Desktop\CrudPdv\obj\Debug\CrudPdv.pdb
+C:\Users\Gabriel\Desktop\CrudPdv\obj\Debug\CrudPdv.View.MainView.resources
