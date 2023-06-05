@@ -1,2 +1,2 @@
 # CrudPdv
-Programa C.R.U.D feito em C# feito para um processo seletivo da minha atual empresa.
+Programa C.R.U.D em C# feito para um processo seletivo da minha atual empresa.
